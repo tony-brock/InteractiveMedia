@@ -22,8 +22,6 @@ d3.select("body")
             .attr("src","evilcat.jpg")
             d3.select("p")
             .text("Standing Cat was his own worst enemy.")
-            .fontsize(25px)
-            .bold()
         })
         })
  
